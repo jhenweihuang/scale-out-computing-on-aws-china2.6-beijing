@@ -94,7 +94,7 @@ class Config(object):
                                     "ap-northeast-1": "ami-0a9fb743d72e209ca",
                                     "ap-south-1": "ami-09c1d03de366041a4",
                                     "cn-northwest-1": "ami-09e01c84d50d18db2",
-                                    "cn-north-1": "ami-085fdb22efe4e3f46"},
+                                    "cn-north-1": "ami-07274dfabe3efb028"},
                        "non-graphics": {"us-east-1": "ami-021660b17250fbc9b",
                                         "us-east-2": "ami-03d379fd8144e0be7",
                                         "us-west-1": "ami-0b1004c6b09ece7e7",
@@ -109,7 +109,7 @@ class Config(object):
                                         "ap-northeast-1": "ami-0101345c4c334941c",
                                         "ap-south-1": "ami-08e852f6df553818a",
 					"cn-northwest-1": "ami-09e01c84d50d18db2",
-                                        "cn-north-1": "ami-085fdb22efe4e3f46"}}
+                                        "cn-north-1": "ami-07274dfabe3efb028"}}
     # LDAP
     LDAP_HOST = "127.0.0.1"
     LDAP_BASE_DN = "dc=soca,dc=local"
